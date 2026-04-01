@@ -1,0 +1,14 @@
+{
+  "app_name": "Leave Management System",
+  "app_icon": "🗓️",
+  "default_email": "sandeepjain200019@gmail.com",
+  "roles": ["Engineering", "Design", "Marketing", "Sales", "HR", "Product"],
+  "leave_types": {
+    "PL":   { "label": "Privilege Leave (PL)",  "color": "#3B82F6" },
+    "CL":   { "label": "Casual Leave (CL)",     "color": "#22C55E" },
+    "SL":   { "label": "Sick Leave (SL)",       "color": "#F97316" },
+    "COMP": { "label": "Compensatory (COMP)",   "color": "#14B8A6" },
+    "LOP":  { "label": "Loss of Pay (LOP)",     "color": "#EF4444" },
+    "MAT":  { "label": "Maternity/Paternity",   "color": "#A855F7" }
+  }
+}
